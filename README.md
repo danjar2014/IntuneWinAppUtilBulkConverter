@@ -8,6 +8,7 @@ https://github.com/danjar2014/IntuneWinAppUtilBulkConverter
 
 ## Requirements
 
+- Script must be named install.exe , install.cmd , install.bat, install.ps1
 - Windows 10/11
 - PowerShell (with the ability to run scripts)
 - Minimum 10MB of disk space
